@@ -1,10 +1,16 @@
 ### Hi there, I'm Duda 👋
 
-[![Duda's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudaholandah)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="center" alt="GitHub Stats" scr="https://github-readme-stats.vercel.app/api?username=dudaholandah&show_icons=true&hide_border=true"  />
+
+<!--  ![Duda's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudaholandah&theme=default&show_icons=true) -->
+
 
 - 🔭 I’m a Computer Science Student at 5th Semester
 - 🌱 I’m currently learning more about Competitive Programming
 - 🥅 2021 Goals: Contribute more to Open Source projects
+
+
 
 <!--
 **dudaholandah/dudaholandah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
