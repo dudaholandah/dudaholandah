@@ -1,4 +1,10 @@
-### Hi there, I'm Duda 👋
+## Hi there, I'm Duda 👋
+
+## About Me
+
+- 🔭 I’m a Computer Science Student at 5th Semester
+- 🌱 I’m currently learning more about Competitive Programming
+- 🥅 Goals: contribute more on GitHub
 
 ## Github Stats
 <details>
@@ -10,13 +16,6 @@
 <summary>Most Used Languages</summary>
 <img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaholandah&layout=compact"/>
 </details>  
-
-## About Me
-
-- 🔭 I’m a Computer Science Student at 5th Semester
-- 🌱 I’m currently learning more about Competitive Programming
-- 🥅 2021 Goals: Contribute more to Open Source projects
-
 
 ## Reach Me
 
