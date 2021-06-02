@@ -2,6 +2,8 @@
 
 
 <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dudaholandah&show_icons=true"  />
+<img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaholandah&layout=compact"  />
+
 
 <!--  ![Duda's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudaholandah&theme=default&show_icons=true) -->
 
