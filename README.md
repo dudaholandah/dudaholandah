@@ -4,7 +4,7 @@
 
 - 🔭 I’m a Computer Science Student at 5th Semester
 - 🌱 I’m currently learning more about Competitive Programming
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projectss
 
 <!--
 **dudaholandah/dudaholandah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
