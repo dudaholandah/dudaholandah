@@ -1,17 +1,24 @@
 ### Hi there, I'm Duda 👋
 
-
+## Github Stats
+<details>
+<summary>GitHub Profile Stats</summary>
 <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dudaholandah&show_icons=true"  />
-<img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaholandah&layout=compact"  />
+</details>
 
+<details>
+<summary>Most Used Languages</summary>
+<img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaholandah&layout=compact"/>
+</details>  
 
-<!--  ![Duda's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudaholandah&theme=default&show_icons=true) -->
-
+## About Me
 
 - 🔭 I’m a Computer Science Student at 5th Semester
 - 🌱 I’m currently learning more about Competitive Programming
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
+
+## Reach Me
 
 
 <!--
