@@ -1,7 +1,7 @@
 ### Hi there, I'm Duda 👋
 
 
-<img align="center" alt="GitHub Stats" scr="https://github-readme-stats.vercel.app/api?username=dudaholandah&show_icons=true"  />
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dudaholandah&show_icons=true"  />
 
 <!--  ![Duda's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudaholandah&theme=default&show_icons=true) -->
 
