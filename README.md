@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Duda 👋
+
+[![Duda's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudaholandah)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🔭 I’m a Computer Science Student at 5th Semester
+- 🌱 I’m currently learning more about Competitive Programming
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 <!--
 **dudaholandah/dudaholandah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+goal : contribute more on Github 
+conect with me
+language and tools
 -->
