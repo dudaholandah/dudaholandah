@@ -29,6 +29,8 @@
 
 
 
+<br/>
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Duda Spotify Playing" width="350" />](https://open.spotify.com/user/kbunrghgtja0rwcs60d5b7lka)
@@ -36,15 +38,14 @@
 ### Languages and Tools:
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="27px" alt="Visual Studio Code" />
-    
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="26px" alt="GitHub" />
-    
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="26px" alt="C++" />
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="27px" alt="Visual Studio Code" />][vscode]
+[<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ubuntu-512.png" width="27px" alt="Terminal" />][ubuntu]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="26px" alt="GitHub" />][github]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="26px" alt="C++" />][cpp]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg" width="32px" alt="C" />][c-lang]
+[<img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="26px" alt="Java" />][java]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="26px" alt="Python" />][python]
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg" width="32px" alt="C" />
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Octicons-terminal.svg" width="28px" alt="Terminal" />
     
 
 
@@ -56,5 +57,11 @@
 [twitter]: https://twitter.com/dudaholandah
 [instagram]: https://www.instagram.com/dudaholandah/
 [steam]: https://steamcommunity.com/id/dudaholandah/
-
+[vscode]: https://code.visualstudio.com/docs
+[github]: https://docs.github.com/pt/github
+[cpp]: https://www.w3schools.com/cpp/default.asp
+[c-lang]: https://en.cppreference.com/w/c/language
+[ubuntu]: https://help.ubuntu.com/
+[java]: https://www.w3schools.com/java/default.asp
+[python]: https://www.w3schools.com/python/default.asp
 
