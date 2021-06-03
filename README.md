@@ -48,6 +48,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg" width="46px" alt="C" />][c-lang]
 [<img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="36px" alt="Java" />][java]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40px" alt="Python" />][python]
+[<img src="https://reposcope.com/media/unknown/none/unknown/coq.png" width="40px" alt="Coq" />][coq]
 
     
 
@@ -67,3 +68,4 @@
 [python]: https://www.w3schools.com/python/default.asp
 [eclipse]: https://www.eclipse.org/getting_started/
 [netbeans]: http://netbeans.apache.org/kb/
+[coq]: https://coq.inria.fr/
