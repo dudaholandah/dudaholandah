@@ -26,7 +26,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Duda Spotify Playing" width="350" />](https://open.spotify.com/user/kbunrghgtja0rwcs60d5b7lka)
 
 
-### Connect With Me
+### Reach Me
 
 [<img align="left" alt="dudaholandah | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="dudaholandah | Gmail" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
