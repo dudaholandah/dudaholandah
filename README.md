@@ -5,7 +5,8 @@
 
 - 🔭 I’m a Computer Science Student at 5th Semester
 - 🌱 I’m currently learning more about Competitive Programming
-- 🥅 Goals: contribute more on GitHub
+- 🥅 Goals: contribute more on GitHub this year
+- ⭐ Interests: music 🎧, games 🎮 and movies 📽️
 
 
 ### Github Stats
@@ -24,6 +25,7 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Duda Spotify Playing" width="350" />](https://open.spotify.com/user/kbunrghgtja0rwcs60d5b7lka)
 
+
 ### Connect With Me
 
 [<img align="left" alt="dudaholandah | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -40,9 +42,9 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40px" alt="Visual Studio Code" />][vscode]
 [<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ubuntu-512.png" width="40px" alt="Terminal" />][ubuntu]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40px" alt="GitHub" />][github]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40px" alt="C++" />][cpp]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg" width="49px" alt="C" />][c-lang]
-[<img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="40px" alt="Java" />][java]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="37px" alt="C++" />][cpp]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg" width="45px" alt="C" />][c-lang]
+[<img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="36px" alt="Java" />][java]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40px" alt="Python" />][python]
 
     
