@@ -44,11 +44,13 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="36px" alt="Netbeans" />][netbeans]
 [<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ubuntu-512.png" width="40px" alt="Ubuntu" />][ubuntu]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40px" alt="GitHub" />][github]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="42px" alt="Git" />][git]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="38px" alt="C++" />][cpp]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg" width="46px" alt="C" />][c-lang]
 [<img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="36px" alt="Java" />][java]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40px" alt="Python" />][python]
 [<img src="https://reposcope.com/media/unknown/none/unknown/coq.png" width="40px" alt="Coq" />][coq]
+
 
     
 
@@ -69,3 +71,4 @@
 [eclipse]: https://www.eclipse.org/getting_started/
 [netbeans]: http://netbeans.apache.org/kb/
 [coq]: https://coq.inria.fr/
+[git]: https://git-scm.com/docs
