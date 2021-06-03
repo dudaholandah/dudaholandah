@@ -41,7 +41,8 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40px" alt="Visual Studio Code" />][vscode]
 [<img src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" width="42px" alt="Eclipse"/>][eclipse]
-[<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ubuntu-512.png" width="40px" alt="Terminal" />][ubuntu]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="36px" alt="Netbeans" />][netbeans]
+[<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ubuntu-512.png" width="40px" alt="Ubuntu" />][ubuntu]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40px" alt="GitHub" />][github]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="38px" alt="C++" />][cpp]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg" width="46px" alt="C" />][c-lang]
@@ -49,8 +50,6 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40px" alt="Python" />][python]
 
     
-
-
 
 <!-- links-->
 
@@ -67,4 +66,4 @@
 [java]: https://www.w3schools.com/java/default.asp
 [python]: https://www.w3schools.com/python/default.asp
 [eclipse]: https://www.eclipse.org/getting_started/
-
+[netbeans]: http://netbeans.apache.org/kb/
