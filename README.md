@@ -21,10 +21,10 @@
 </details>  
 
 
-### Spotify Playing 🎧
+<!--### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Duda Spotify Playing" width="350" />](https://open.spotify.com/user/kbunrghgtja0rwcs60d5b7lka)
-
+-->
 
 ### Reach Me
 
