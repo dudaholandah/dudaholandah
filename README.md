@@ -3,7 +3,7 @@
 
 ### About Me
 
-- 🔭 I’m a Computer Science Student at 5th Semester
+- 🔭 I’m a 5th Semester Computer Science Student at UnB
 - 🌱 I’m currently learning more about Competitive Programming
 - 🥅 Goals: contribute more on GitHub this year
 - ⭐ Interests: music 🎧, games 🎮 and movies 📽️
