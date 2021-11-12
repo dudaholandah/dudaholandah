@@ -17,7 +17,7 @@
 
 <details>
 <summary>Most Used Languages</summary>
-<img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaholandah&hide=haml"/>
+<img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaholandah&hide=haml,ruby"/>
 </details>  
 
 
