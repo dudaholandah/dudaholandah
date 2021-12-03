@@ -32,7 +32,7 @@
 [<img align="left" alt="dudaholandah | Gmail" width="28px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />][gmail]
 [<img align="left" alt="dudaholandah | Twitter" width="28px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" alt="dudaholandah | Instagram" width="28px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />][instagram]
-[<img align="left" alt="dudaholandah | Steam" width="28px" src="https://commons.wikimedia.org/wiki/File:Steam_logo.svg#/media/File:Steam_icon_logo.svg" />][steam]
+[<img align="left" alt="dudaholandah | Steam" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" />][steam]
 
 <br/>
 
