@@ -32,7 +32,7 @@
 [<img align="left" alt="dudaholandah | Gmail" width="28px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />][gmail]
 [<img align="left" alt="dudaholandah | Twitter" width="28px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" alt="dudaholandah | Instagram" width="28px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />][instagram]
-[<img align="left" alt="dudaholandah | Steam" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/steam.svg" />][steam]
+[<img align="left" alt="dudaholandah | Steam" width="28px" src="https://commons.wikimedia.org/wiki/File:Steam_logo.svg#/media/File:Steam_icon_logo.svg" />][steam]
 
 <br/>
 
@@ -48,8 +48,8 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg" width="46px" alt="C" />][c-lang]
 [<img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="36px" alt="Java" />][java]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40px" alt="Python" />][python]
-[<img src="https://reposcope.com/media/unknown/none/unknown/coq.png" width="40px" alt="Coq" />][coq]
 
+<!---[<img src="https://reposcope.com/media/unknown/none/unknown/coq.png" width="40px" alt="Coq" />][coq]-->
 <!---[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40px" alt="GitHub" />][github]-->
 
     
