@@ -1,5 +1,7 @@
 ### Hi there, I'm Duda 👋
 
+<img align='right' src="https://images6.fanpop.com/image/photos/43000000/Only-Yesterday-studio-ghibli-43057167-540-290.gif" width="380">
+
 
 ### About Me
 
