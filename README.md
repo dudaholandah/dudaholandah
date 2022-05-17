@@ -12,12 +12,12 @@
 ### Github Stats
 <details>
 <summary>GitHub Profile Stats</summary>
-<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dudaholandah&show_icons=true&theme=aura"  />
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dudaholandah&show_icons=true&theme=tokyonight"  />
 </details>
 
 <details>
 <summary>Most Used Languages</summary>
-<img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaholandah&show_icons=true&theme=aura&hide=haml,ruby,jupyter%20notebook"/>
+<img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaholandah&layout=compact&theme=tokyonight&hide=haml,ruby,jupyter%20notebook"/>
 </details>  
 
 
