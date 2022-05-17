@@ -48,12 +48,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="38px" alt="ReactNative" />][reactnative]
 [<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="46px" alt="Docker" />][docker]
 [<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="34px" alt="MySQL" />][mysql]
-[<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" width="80px" alt="Flask" />][flask]
-
-
-
-
-
+[<img src="flask_png.png" width="40px" alt="Flask" />][flask]
 
 <!-- [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="42px" alt="Git" />][git] -->
 <!-- [<img src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg" width="46px" alt="C" />][c-lang] -->
