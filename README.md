@@ -17,7 +17,7 @@
 
 <details>
 <summary>Most Used Languages</summary>
-<img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaholandah&layout=compact&theme=tokyonight&hide=haml,ruby,jupyter%20notebook"/>
+<img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaholandah&layout=compact&theme=tokyonight&hide=haml,jupyter%20notebook&langs_count=8"/>
 </details>  
 
 
@@ -46,6 +46,7 @@
 [<img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="36px" alt="Java" />][java]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="34px" alt="JavaScript" />][javascript]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="38px" alt="ReactNative" />][reactnative]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg" width="27px" alt="RubyRails" />][rubyrails]
 [<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="46px" alt="Docker" />][docker]
 [<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="34px" alt="MySQL" />][mysql]
 [<img src="flask_png.png" width="40px" alt="Flask" />][flask]
@@ -84,3 +85,4 @@
 [flask]: https://flask.palletsprojects.com/en/2.1.x/
 [docker]: https://docs.docker.com/desktop/
 [mysql]: https://www.w3schools.com/mysql/default.asp
+[rubyrails]: https://guides.rubyonrails.org/getting_started.html
