@@ -3,7 +3,7 @@
 
 
 
-<img align='right' src="https://media.giphy.com/media/OAglYDNHPx5qo/giphy.gif" width="350">
+<img align='right' src="https://media.giphy.com/media/OAglYDNHPx5qo/giphy.gif" width="300">
 
 - 🌱 I’m currently studying **Competitive Programming**.
 
@@ -44,6 +44,9 @@
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudaholandah&show_icons=true&locale=en&layout=compact" alt="dudaholandah" /></p>
 
-<p>&nbsp;<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=dudaholandah&show_icons=true&locale=en" alt="dudaholandah" /></p>
+### Github Stats
+<p><img height="170px" align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dudaholandah&show_icons=true&theme=tokyonight"/></p>
+       
+<p>&nbsp;<img height="170px" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaholandah&layout=compact&theme=tokyonight&hide=haml,jupyter%20notebook&langs_count=8"/></p>
+
