@@ -1,90 +1,49 @@
-### Hi there, I'm Duda 👋
-
-<img align='right' src="https://images6.fanpop.com/image/photos/43000000/Only-Yesterday-studio-ghibli-43057167-540-290.gif" width="300">
-
-
-### About Me
-
-- 🔭 I’m a Computer Science Student at UnB
-- 🌱 I’m currently learning more about Competitive Programming
-- 🥅 Goals: contribute more on GitHub this year
-- ⭐ Interests: music 🎧, games 🎮 and movies 📽️
+<h1 align="center">Hi 👋, I'm Maria Eduarda</h1>
+<h3 align="center">A passionate Software Engineer finishin my Bachelor's Degree in Computer Science.</h3>
 
 
-### Github Stats
-<details>
-<summary>GitHub Profile Stats</summary>
-<img height="200em" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dudaholandah&show_icons=true&theme=tokyonight"  />
-</details>
 
-<details>
-<summary>Most Used Languages</summary>
-<img height="200em" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudaholandah&layout=compact&theme=tokyonight&hide=haml,jupyter%20notebook&langs_count=8"/>
-</details>  
+<img align='right' src="https://media.giphy.com/media/OAglYDNHPx5qo/giphy.gif" width="350">
 
+- 🌱 I’m currently studying **Competitive Programming**.
 
-<!--### Spotify Playing 🎧
+- 🤝 I’m looking for help with my [final paper](https://github.com/dudaholandah/streamlit-data-vis)  haha.
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Duda Spotify Playing" width="350" />](https://open.spotify.com/user/kbunrghgtja0rwcs60d5b7lka)
--->
+- 🏆 Best Women's Team in **Latin America at the ICPC** (2023).
+
+- 🥳 Classified for the **ICPC Latin America Championship** in Guadalajara (2023).
 
 ### Reach Me
 
-[<img align="left" alt="dudaholandah | LinkedIn" width="28px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="dudaholandah | Gmail" width="28px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />][gmail]
-[<img align="left" alt="dudaholandah | Codeforces" width="28px" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg"/>][codeforces]
-[<img align="left" alt="dudaholandah | Instagram" width="28px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />][instagram]
-[<img align="left" alt="dudaholandah | Steam" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" />][steam]
+[<img align="left" alt="dudaholandah | LinkedIn" width="28px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg" />]("https://www.linkedin.com/in/duda-mholanda")
+[<img align="left" alt="dudaholandah | Gmail" width="28px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />]("mailto:duda.mholanda@gmail.com")
+[<img align="left" alt="dudaholandah | Codeforces" width="28px" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg"/>]("https://codeforces.com/profile/dudaholandah")
+[<img align="left" alt="dudaholandah | Instagram" width="28px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />]("https://www.instagram.com/dudaholandah/")
 
 <!---[<img align="left" alt="dudaholandah | Twitter" width="28px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />][twitter]-->
 
 <br/>
 
-### Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+</p>
 
+<p><img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudaholandah&show_icons=true&locale=en&layout=compact" alt="dudaholandah" /></p>
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="36px" alt="C++" />][cpp]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="38px" alt="Python" />][python]
-[<img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="36px" alt="Java" />][java]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="34px" alt="JavaScript" />][javascript]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="38px" alt="ReactNative" />][reactnative]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg" width="27px" alt="RubyRails" />][rubyrails]
-[<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="46px" alt="Docker" />][docker]
-[<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="34px" alt="MySQL" />][mysql]
-[<img src="flask_png.png" width="40px" alt="Flask" />][flask]
-
-<!-- [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="42px" alt="Git" />][git] -->
-<!-- [<img src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg" width="46px" alt="C" />][c-lang] -->
-<!-- [<img src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" width="42px" alt="Eclipse"/>][eclipse] -->
-<!-- [<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="36px" alt="Netbeans" />][netbeans] -->
-<!-- [<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ubuntu-512.png" width="40px" alt="Ubuntu" />][ubuntu] -->
-<!-- [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40px" alt="Visual Studio Code" />][vscode] -->
-<!---[<img src="https://reposcope.com/media/unknown/none/unknown/coq.png" width="40px" alt="Coq" />][coq]-->
-<!---[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40px" alt="GitHub" />][github]-->
-
-    
-
-<!-- links-->
-[linkedin]: https://www.linkedin.com/in/maria-eduarda-machado-de-holanda-4496a6202/
-[gmail]: mailto:duda.mholanda@gmail.com
-[codeforces]: https://codeforces.com/profile/dudaholandah
-[twitter]: https://twitter.com/dudaholandah
-[instagram]: https://www.instagram.com/dudaholandah/
-[steam]: https://steamcommunity.com/id/dudaholandah/
-[vscode]: https://code.visualstudio.com/docs
-[github]: https://docs.github.com/pt/github
-[cpp]: https://www.w3schools.com/cpp/default.asp
-[c-lang]: https://en.cppreference.com/w/c/language
-[ubuntu]: https://help.ubuntu.com/
-[java]: https://www.w3schools.com/java/default.asp
-[python]: https://www.w3schools.com/python/default.asp
-[eclipse]: https://www.eclipse.org/getting_started/
-[netbeans]: http://netbeans.apache.org/kb/
-[coq]: https://coq.inria.fr/
-[git]: https://git-scm.com/docs
-[javascript]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
-[reactnative]: https://reactnative.dev/docs/getting-started
-[flask]: https://flask.palletsprojects.com/en/2.1.x/
-[docker]: https://docs.docker.com/desktop/
-[mysql]: https://www.w3schools.com/mysql/default.asp
-[rubyrails]: https://guides.rubyonrails.org/getting_started.html
+<p>&nbsp;<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=dudaholandah&show_icons=true&locale=en" alt="dudaholandah" /></p>
