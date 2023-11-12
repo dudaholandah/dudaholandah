@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria Eduarda</h1>
-<h3 align="center">A passionate Software Engineer finishin my Bachelor's Degree in Computer Science.</h3>
+<h3 align="center">I'm a passionate Software Engineer finishing my Bachelor's Degree in Computer Science</h3>
 
 
 
